@@ -116,11 +116,3 @@ docker run -d -p 5000:5000 \
   --name flask-container \
   python-login-app
 ```
-
-## Author
-
-Add your name here.
-
-## Repository
-
-Add your GitHub repository URL here.
