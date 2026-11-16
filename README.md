@@ -54,8 +54,8 @@ Install the following:
 ## Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd python-login-app
+git clone https://github.com/pravyavineesh-glitch/SWYNEX-Container-or-Repeatable-Deployment.git
+cd SWYNEX-Container-or-Repeatable-Deployment
 ```
 
 ## Build the Docker Image
